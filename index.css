@@ -1,0 +1,7 @@
+body {
+  margin: 0;
+  font-family: "Roboto", sans-serif;
+  background: url('/home/harshsharma/ProjectFullStack/frontend/src/photo.jpg') no-repeat center center fixed;
+  background-size: cover;
+}
+
